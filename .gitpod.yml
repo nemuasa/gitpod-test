@@ -5,6 +5,8 @@ image:
 ports:
   - port: 3000
     onOpen: open-preview
+  - port: 8888
+    onOpen: open-preview
 
 # List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/config-start-tasks/
 tasks:
@@ -13,4 +15,6 @@ tasks:
 
 vscode:
   extensions:
+    - coenraads.bracket-pair-colorizer-2
+      mosapride.zenkaku
     
