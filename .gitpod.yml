@@ -15,3 +15,5 @@ vscode:
   extensions:
     - ms-python.python
 
+
+    - coenraads.bracket-pair-colorizer-2
