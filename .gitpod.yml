@@ -13,5 +13,6 @@ tasks:
 
 vscode:
   extensions:
-    - ms-python.python
+    - ms-vscode.cpptools@0.26.2:Pq/tmf2WN3SanVzB4xZc1g==
+      ms-python.python
       coenraads.bracket-pair-colorizer-2
